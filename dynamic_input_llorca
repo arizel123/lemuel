@@ -1,0 +1,14 @@
+#accepts input from user
+name = input("Enter your name:")
+print "Your name is:" + name)
+age = input ("Enter your age:")
+print ("Your age is:" + age)
+
+#accepts numerical input --int()
+fnum = int (input("Enter your number:"))
+snum = int (input("Enter your second number:"))
+
+to_int_value = int ("3")
+
+print (fnum + snum)
+print(co_int_value ** 3)
